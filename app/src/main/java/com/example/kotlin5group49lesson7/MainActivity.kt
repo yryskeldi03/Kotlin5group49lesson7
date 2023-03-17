@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         val akdl = "jkdl"
         setContentView(R.layout.activity_main)
         resultat = a + b
+        // comment from first
     }
 }
