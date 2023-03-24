@@ -5,15 +5,10 @@ import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
     var a = 2
-    var second = 3434
-    var b = 4
-    var resultat = 0
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val e = 343
-        val akdl = "jkdl"
         setContentView(R.layout.activity_main)
-        resultat = a + b
+//        resultat = a + b
         // second
         // comment from first
     }
